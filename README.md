@@ -5,7 +5,7 @@ A modular Python program developed using Object-Oriented Programming (OOP) conce
 ## Project Details
 - **Module**: Object-Oriented Programming 1 (PROG211)
 - **Institution**: Limkokwing University of Creative Technology, Sierra Leone
-- **Examiner**: Amandus Benjamin Coker
+- **Examiner**: Amandu Kamara
 - **Domain**: Health Care System
 
 ---
